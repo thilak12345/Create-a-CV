@@ -190,7 +190,7 @@ SECTION WRAPS
   background: #2c3e50;
   padding-top: 60px;
   padding-bottom: 60px;
-  color: white;
+  color: rgb(100, 31, 31);
 }
 
 #intro h5, p {
