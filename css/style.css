@@ -6,7 +6,7 @@
 */
 
 body {
-  background-color: #f2f2f2;
+  background-color: #6cd1df;
   font-family: "Lato";
   font-weight: 300;
   font-size: 16px;
@@ -176,7 +176,7 @@ SECTION WRAPS
 
 #headerwrap h1 {
   font-size: 80px;
-  color: black;
+  color: rgb(105, 18, 18);
 }
 
 #headerwrap h3 {
@@ -187,18 +187,18 @@ SECTION WRAPS
 /* Intnro Wrap */
 
 #intro {
-  background: #2c3e50;
+  background: #081829;
   padding-top: 60px;
   padding-bottom: 60px;
-  color: rgb(100, 31, 31);
+  color: rgb(151, 30, 30);
 }
 
 #intro h5, p {
-  color: white;
+  color: rgb(177, 19, 32);
 }
 
 #intro i {
-  color: white;
+  color: rgb(136, 17, 17);
   font-size: 20px;
   padding-right: 8px;
   vertical-align: middle;
@@ -208,11 +208,11 @@ SECTION WRAPS
   background: #2c3e50;
   padding-top: 60px;
   padding-bottom: 60px;
-  color: white;
+  color: rgb(235, 12, 12);
 }
 
 #skillswrap h5, p {
-  color: white;
+  color: rgb(251, 255, 255);
 }
 
 #footwrap {
@@ -222,7 +222,7 @@ SECTION WRAPS
 }
 
 #footwrap p {
-  color: white;
+  color: rgb(253, 253, 253);
 }
 
 #footwrap h5 {
@@ -244,7 +244,7 @@ SECTION WRAPS
   background: #222222;
   padding: 20px 0;
   text-align: center;
-  color: #fff;
+  color: rgb(201, 139, 139);
   font-size: 16px;
 }
 
